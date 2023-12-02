@@ -1,1 +1,1 @@
-# HTML
+# QA Manual course
